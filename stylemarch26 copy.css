@@ -1,0 +1,24 @@
+p {
+	font-size: 18px;
+	line-height: 1.6;
+	margin-bottom: 20px;
+}
+
+nav {
+	background-color: white;
+}
+
+a:link {
+	color: black;
+}
+
+
+h1{
+	font: bolder;
+	color: brown;
+}
+
+col s12 m4{
+padding-bottom: 20px;
+margin-left: 30px;
+}
